@@ -56,7 +56,7 @@ This approach turned the project into both a learning tool and an experiment in 
 ## Technologies Used
 
 - **Backend:** FastAPI (Python)
-- **Frontend:** HTML (served as static content)
+- **Frontend:** HTML, CSS, JavaScript
 - **Containerization:** Docker
 - **Cloud Platform:** Azure App Services
 - **CI/CD:** GitHub Actions
@@ -78,5 +78,5 @@ This approach turned the project into both a learning tool and an experiment in 
 
 - Better UI/UX for availability visualization
 - Authentication
-- Calendar integrations (Google Calendar, Outlook, etc.)
+- Calendar integrations (Google Calendar, iCalendar)
 
