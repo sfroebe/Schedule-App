@@ -1,5 +1,6 @@
 # Group Calendar Availability Interface
 Website link: http://calendar-fastapi-app.azurewebsites.net
+
 Note: it may take a minute for the events and toggles to load in.
 ## Overview
 
