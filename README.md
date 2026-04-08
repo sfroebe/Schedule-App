@@ -22,7 +22,7 @@ This tool was created to:
 
 ## Project Evolution
 
-While the original goal was simply to generate a usable schedule visualization, the project expanded as I decided to treat it as a **real-world web application**:
+While the original goal was simply to generate a usable schedule visualization, the project expanded as I decided to treat it as a real-world web application:
 
 - A **FastAPI backend** processes schedule data
 - A lightweight **HTML frontend** displays availability
@@ -42,7 +42,7 @@ Through this process, the project became a hands-on way to learn:
 
 An important aspect of this project is how it was built:
 
-- **All Python and HTML code was generated using ChatGPT (GPT-4.1)**
+- All Python and HTML code was generated using ChatGPT (GPT-4.1)
 - I acted as the tester, debugger, and reviewer:
   - Running the code
   - Identifying bugs or design issues
