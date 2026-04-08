@@ -11,7 +11,7 @@ Instead of guessing availability or manually comparing calendars to plan lunches
 
 ## Motivation & Idea
 
-As a student juggling multiple classes—and coordinating with friends doing the same—I noticed how inefficient it was to plan meetups. Everyone had different lecture times, labs, and commitments, which made finding overlapping free time surprisingly difficult.
+As a student juggling multiple classes and coordinating with friends doing the same, I noticed how inefficient it was to plan meetups. Everyone had different lecture times, labs, and commitments, which made finding overlapping free time difficult.
 
 This tool was created to:
 - Eliminate guesswork when planning meetups
@@ -34,7 +34,7 @@ Through this process, the project became a hands-on way to learn:
 - Docker-based application packaging
 - Cloud deployment using Azure
 - Continuous Integration and Continuous Deployment (CI/CD) pipelines
-- Practical DevOps workflows used in real production environments
+- Practical DevOps workflows
 
 ---
 
@@ -47,7 +47,7 @@ An important aspect of this project is how it was built:
   - Running the code
   - Identifying bugs or design issues
   - Requesting refactors or improvements from the AI
-- This iterative loop allowed me to focus on **understanding system design, debugging, and deployment**, rather than writing every line from scratch
+- This iterative loop allowed me to focus on understanding system design, debugging, and deployment, rather than writing every line from scratch
 
 This approach turned the project into both a learning tool and an experiment in AI-assisted software development.
 
@@ -71,19 +71,12 @@ This approach turned the project into both a learning tool and an experiment in 
 - Building and running Docker containers locally
 - Deploying containerized applications to Azure
 - Automating builds and deployments with GitHub Actions
-- Understanding how modern DevOps workflows fit together
 
 ---
 
 ## Future Improvements
 
 - Better UI/UX for availability visualization
-- Authentication and persistent storage
+- Authentication
 - Calendar integrations (Google Calendar, Outlook, etc.)
-
----
-
-## Final Notes
-
-This project represents a progression from a **simple personal tool** into a **full-stack, cloud-deployed application**. It reflects both a practical problem-solving mindset and a deliberate effort to learn industry-relevant development and DevOps practices.
 
