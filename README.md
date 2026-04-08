@@ -1,5 +1,5 @@
-# Group Calendar Availability Planner
-
+# Group Calendar Availability Interface
+Website link: http://calendar-fastapi-app.azurewebsites.net
 ## Overview
 
 This project began as a personal scheduling tool built to solve a very practical problem:  
